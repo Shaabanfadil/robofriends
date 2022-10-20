@@ -1,0 +1,39 @@
+"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#fcee93",
+			//"activityBar.background": "#93e6fc",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#215bd9",
+			"activityBarBadge.foreground": "#93fcf3",
+			"commandCenter.border": "#15202b99",
+			"sash.hoverBorder": "#15202b99",
+			"statusBar.background": "#2fcefa",
+			"statusBar.foreground": "#15202b",
+			"statusBarItem.hoverBackground": "#2fcefa",
+			"statusBarItem.remoteBackground": "#61dafb",
+			"statusBarItem.remoteForeground": "#15202b",
+			"titleBar.activeBackground": "#61dafb",
+			"titleBar.activeForeground": "#15202b",
+			"titleBar.inactiveBackground": "#61dafb99",
+			"titleBar.inactiveForeground": "#15202b99",
+			"activityBar.background": "#289dd7",
+
+    //"titleBar.activeBackground": "#8ee95d",
+    //"titleBar.activeForeground": "#FCFAFF",
+    //"statusBar.background": "#cf3535",
+    "statusBar.noFolderBackground": "#0d02dd",
+    "statusBar.debuggingBackground": "#5cc7fd",
+    //"activityBar.inactiveForeground": "#524747"
+		},
+		"peacock.color": "#61dafb",
+		"editor.fontLigatures": false,
+		"editor.codeActionsOnSave": {
+		
+		},
+		"editor.fontFamily": "Menlo, Fira Code, Monaco, 'Courier New', monospace",
+		"sync.gist": "fffb692d9942bc95dc4bc557c8dd188c",
+		"sync.quietSync": false,
+		"sync.autoUpload": true,
+		"sync.forceUpload": false
+	}
