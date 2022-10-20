@@ -41,7 +41,9 @@
 		
 		},
 		"editor.fontFamily": "Menlo, Fira Code, Monaco, 'Courier New', monospace",
-		"sync.gist": "",
-		"sync.quietSync": false
+		"sync.gist": "fffb692d9942bc95dc4bc557c8dd188c",
+		"sync.quietSync": false,
+		"sync.autoUpload": true,
+		"sync.forceUpload": false
 	}
 }
