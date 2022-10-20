@@ -1,7 +1,7 @@
 {
 	"folders": [
 		{
-			"path": "../robotest"
+			"path": "../robofriends"
 		},
 		{
 			"path": "."
@@ -9,28 +9,39 @@
 	],
 	"settings": {
 		"workbench.colorCustomizations": {
-			"activityBar.activeBackground": "#a4d070",
-			"activityBar.background": "#a4d070",
+			"activityBar.activeBackground": "#fcee93",
+			//"activityBar.background": "#93e6fc",
 			"activityBar.foreground": "#15202b",
 			"activityBar.inactiveForeground": "#15202b99",
-			"activityBarBadge.background": "#3f85c0",
-			"activityBarBadge.foreground": "#e7e7e7",
+			"activityBarBadge.background": "#215bd9",
+			"activityBarBadge.foreground": "#93fcf3",
 			"commandCenter.border": "#15202b99",
-			"sash.hoverBorder": "#a4d070",
-			"statusBar.background": "#8bc34a",
+			"sash.hoverBorder": "#15202b99",
+			"statusBar.background": "#2fcefa",
 			"statusBar.foreground": "#15202b",
-			"statusBarItem.hoverBackground": "#71a436",
-			"statusBarItem.remoteBackground": "#8bc34a",
+			"statusBarItem.hoverBackground": "#2fcefa",
+			"statusBarItem.remoteBackground": "#61dafb",
 			"statusBarItem.remoteForeground": "#15202b",
-			"titleBar.activeBackground": "#8bc34a",
+			"titleBar.activeBackground": "#61dafb",
 			"titleBar.activeForeground": "#15202b",
-			"titleBar.inactiveBackground": "#8bc34a99",
-			"titleBar.inactiveForeground": "#15202b99"
+			"titleBar.inactiveBackground": "#61dafb99",
+			"titleBar.inactiveForeground": "#15202b99",
+			"activityBar.background": "#289dd7",
+
+    //"titleBar.activeBackground": "#8ee95d",
+    //"titleBar.activeForeground": "#FCFAFF",
+    //"statusBar.background": "#cf3535",
+    "statusBar.noFolderBackground": "#0d02dd",
+    "statusBar.debuggingBackground": "#5cc7fd",
+    //"activityBar.inactiveForeground": "#524747"
 		},
-		"peacock.color": "#8BC34A",
+		"peacock.color": "#61dafb",
 		"editor.fontLigatures": false,
 		"editor.codeActionsOnSave": {
 		
-		}
+		},
+		"editor.fontFamily": "Menlo, Fira Code, Monaco, 'Courier New', monospace",
+		"sync.gist": "",
+		"sync.quietSync": false
 	}
 }
