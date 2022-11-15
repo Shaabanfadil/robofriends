@@ -25,6 +25,9 @@
     "activityBar.background": "#289dd7",
     "statusBar.noFolderBackground": "#2fcefa",
     "statusBar.debuggingBackground": "#fcee93"
-		}
+    },
+    "editor.fontLigatures": false,
+    "sync.autoUpload": true,
+    "sync.autoDownload": true
 	}
 }
