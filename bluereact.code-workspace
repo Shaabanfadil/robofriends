@@ -6,7 +6,7 @@
 	],
 	"settings": {
 		"workbench.colorCustomizations": {
-			  "activityBar.activeBackground": "#fcee93",
+		"activityBar.activeBackground": "#fcee93",
     "activityBar.foreground": "#15202b",
     "activityBar.inactiveForeground": "#15202b99",
     "activityBarBadge.background": "#215bd9",
@@ -26,8 +26,7 @@
     "statusBar.noFolderBackground": "#2fcefa",
     "statusBar.debuggingBackground": "#fcee93"
     },
-    "editor.fontLigatures": false,
-    "sync.autoUpload": true,
-    "sync.autoDownload": true
+    "editor.fontWeight": "normal",
+    "editor.fontLigatures": false
 	}
 }
