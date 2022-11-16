@@ -27,6 +27,8 @@
     "statusBar.debuggingBackground": "#fcee93"
     },
     "editor.fontWeight": "normal",
-    "editor.fontLigatures": false
+    "editor.fontLigatures": false,
+    "sync.gist": "ba0294d00ee253ee34233becde0ecc95",
+    "sync.forceDownload": false
 	}
 }
