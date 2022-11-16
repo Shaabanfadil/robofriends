@@ -1,6 +1,15 @@
 {
 	"folders": [
 		{
+<<<<<<< HEAD
+=======
+			"path": "../robotest"
+		},
+		{
+			"path": "../robofriends"
+		},
+		{
+>>>>>>> da29fe0cd823d6c79019d9abb6e33e2d1d9025c3
 			"path": "."
 		}
 	],
@@ -24,6 +33,16 @@
       "titleBar.inactiveForeground": "#15202b99",
       "activityBar.background": "#93e6fc",
       "statusBar.noFolderBackground": "#2fcefa"
+<<<<<<< HEAD
     }
+=======
+    },
+		"peacock.color": "#61dafb",
+		"editor.fontLigatures": false,
+		"editor.codeActionsOnSave": {
+		
+		},
+		"sync.gist": "fcbcbd6627b256b1898cd60f2212182d"
+>>>>>>> da29fe0cd823d6c79019d9abb6e33e2d1d9025c3
 	}
 }
