@@ -1,34 +1,34 @@
 {
 	"folders": [
-		{
-			"path": "."
-		}
-	],
+    {
+      "path": "."
+    }
+  ],
 	"settings": {
 		"workbench.colorCustomizations": {
-		"activityBar.activeBackground": "#fcee93",
-    "activityBar.foreground": "#15202b",
-    "activityBar.inactiveForeground": "#15202b99",
-    "activityBarBadge.background": "#215bd9",
-    "activityBarBadge.foreground": "#93fcf3",
-    "commandCenter.border": "#15202b99",
-    "sash.hoverBorder": "#15202b99",
-    "statusBar.background": "#2fcefa",
-    "statusBar.foreground": "#15202b",
-    "statusBarItem.hoverBackground": "#2fcefa",
-    "statusBarItem.remoteBackground": "#61dafb",
-    "statusBarItem.remoteForeground": "#15202b",
-    "titleBar.activeBackground": "#61dafb99",
-    "titleBar.activeForeground": "#15202b",
-    "titleBar.inactiveBackground": "#61dafb99",
-    "titleBar.inactiveForeground": "#15202b99",
-    "activityBar.background": "#289dd7",
-    "statusBar.noFolderBackground": "#2fcefa",
-    "statusBar.debuggingBackground": "#fcee93"
+      "activityBar.activeBackground": "#53b1df",
+      "activityBar.foreground": "#15202b",
+      "activityBar.inactiveForeground": "#15202b99",
+      "activityBarBadge.background": "#fae4f3",
+      "activityBarBadge.foreground": "#15202b",
+      "commandCenter.border": "#15202b99",
+      "sash.hoverBorder": "#53b1df",
+      "statusBar.background": "#289dd7",
+      "statusBar.foreground": "#15202b",
+      "statusBarItem.hoverBackground": "#207eac",
+      "statusBarItem.remoteBackground": "#289dd7",
+      "statusBarItem.remoteForeground": "#15202b",
+      "titleBar.activeBackground": "#289dd7",
+      "titleBar.activeForeground": "#15202b",
+      "titleBar.inactiveBackground": "#289dd799",
+      "titleBar.inactiveForeground": "#15202b99",
+      "activityBar.background": "#53b1df",
+      "statusBar.noFolderBackground": "#2fcefa"
     },
     "editor.fontWeight": "normal",
     "editor.fontLigatures": false,
     "sync.gist": "ba0294d00ee253ee34233becde0ecc95",
-    "sync.forceDownload": false
+    "sync.forceDownload": false,
+    "liveServer.settings.multiRootWorkspaceName": "testapp"
 	}
 }
