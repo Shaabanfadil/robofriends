@@ -18,16 +18,18 @@ class App extends Component{
   }
   //create function with event, then change it to arrow function
   onSearchChange = (event) =>{
-    //use setState whenever using state
+    //use new setState to grap value target input in searchfield state
     this.setState({searchfield: event.target.value})
    
    
   }
   render() {
+     //filter through robots name in lowercase then included in empty searchfield
      const filteredRobots = this.state.robots.filter((robot) => {
        return robot.name
          .toLowerCase()
-         .includes(this.state.searchfield.toLowerCase());
+         .includes(this.state.searchfield
+           .toLowerCase());
      }
      );
      console.log(filteredRobots);
