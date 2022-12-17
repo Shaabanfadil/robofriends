@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "path": "c://xampp/htdocs/robofriends"
+      "path": "./robofriends"
     },
     {
       "path": "."
